@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=Tankv2/src&lt;com.zxxa.tank.observer{Observer.java[Observer" modifiers="513" timestamp="1609771070000"/>
+    <typeInfo handle="=lib/\/Users\/zxxa\/.gradle\/caches\/modules-2\/files-2.1\/io.netty\/netty-all\/4.1.9.Final\/97860965d6a0a6b98e7f569f3f966727b8db75\/netty-all-4.1.9.Final.jar=/gradle_used_by_scope=/main,test=/&lt;io.netty.channel(ChannelInboundHandlerAdapter.class[ChannelInboundHandlerAdapter" modifiers="33" timestamp="1609825494000"/>
+    <typeInfo handle="=AOPdemo/src&lt;com.zxxa.aopdemo{Calculator.java[Calculator" modifiers="513" timestamp="1610699452000"/>
+    <typeInfo handle="=oopdemo/src&lt;oopdemo{Pet.java[Pet" modifiers="1025" timestamp="1612243423000"/>
+    <typeInfo handle="=springboot_web/\/Users\/zxxa\/.m2\/repository\/org\/springframework\/boot\/spring-boot-autoconfigure\/2.4.2\/spring-boot-autoconfigure-2.4.2.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.boot=/=/maven.artifactId=/spring-boot-autoconfigure=/=/maven.version=/2.4.2=/=/maven.scope=/compile=/&lt;org.springframework.boot.autoconfigure.web.servlet(WebMvcAutoConfiguration.class[WebMvcAutoConfiguration" modifiers="33" timestamp="1611819283000"/>
+</typeInfoHistroy>

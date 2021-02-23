@@ -1,0 +1,6 @@
+#Tank configuration file
+initTankCount=3
+
+#fireStrategy
+goodFs=com.zxxa.tank.FourDirFireStrategy
+badFs=com.zxxa.tank.DefaultFireStrategy

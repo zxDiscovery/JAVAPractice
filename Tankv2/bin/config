@@ -1,0 +1,9 @@
+#Tank configuration file
+initTankCount=10
+
+#fireStrategy
+goodFs=com.zxxa.tank.FourDirFireStrategy
+badFs=com.zxxa.tank.DefaultFireStrategy
+
+#collide
+collides=com.zxxa.tank.colliderofresponsibility.BulletTankCollider,com.zxxa.tank.colliderofresponsibility.TankTankCollider,com.zxxa.tank.colliderofresponsibility.TankWallCollider,com.zxxa.tank.colliderofresponsibility.BulletWallCollider
